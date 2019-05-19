@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+}
+
+ul {
+  padding-left: 0;
+}
+li {
+  list-style-type: none;
+}
